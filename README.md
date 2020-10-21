@@ -4,7 +4,7 @@
  
 ## Exemplo de uso
 
-<img src="Tela de seleção.png" align="center" width="300">
+<img src="Tela de seleção.png" align="center">
 
 Informar o objeto BOR fonte bem como o ID do objeto.
 (Se for um contrato de compra informar o objeto BUS2014 e o ID do contrato de compra)
